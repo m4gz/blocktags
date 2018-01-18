@@ -1,5 +1,7 @@
 # Tags block
 
+## Patched - to show only current category tags. 
+
 ## About
 
 Adds a block containing your product tags.
